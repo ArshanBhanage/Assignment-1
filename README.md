@@ -1,3 +1,5 @@
+📖 **Read the full detailed report:** [CRISP-DM Report: Heart Failure Mortality Prediction](https://medium.com/@bhanagearshan/crisp-dm-report-heart-failure-mortality-prediction-bdb7fbb7702b)
+
 🧠 Methodology (CRISP-DM)
 
 Phase 1 — Business & Data Understanding
